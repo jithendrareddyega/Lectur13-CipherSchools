@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1sMFjBKOiO_0c5VWU4A2tAZPu_XsbEfsX
 """
 
-name = "Sohail"
-age = 20
+name = "Jithu"
+age = 19
 gender = "MALE"
 print(name,age,gender)
 
